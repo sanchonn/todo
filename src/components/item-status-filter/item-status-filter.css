@@ -1,0 +1,10 @@
+.item-status-filter {
+  /*background-color:cyan;*/
+  margin: 0px auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.item-status-filter .btn{
+  margin-right: 10px;
+}

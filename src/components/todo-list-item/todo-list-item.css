@@ -1,0 +1,38 @@
+.todo-list-item {
+  font-size: 20px;
+}
+
+.todo-list-item .fa{
+  font-size: 25px;
+  margin: 0px 5px;
+}
+
+.todo-list-item .fa:hover {
+  color: green;
+}
+
+.todo-list-item .fa-star {
+  color: green;
+}
+
+.todo-list-item .fa-star:hover {
+  color: lightgreen;
+}
+
+.todo-list-item .input-group-text {
+  background-color: transparent;
+  border: none;
+}
+
+.todo-list-item input {
+  margin: 0px 5px;
+  font-weight: bold;
+  color: black;
+  border: none;
+}
+
+.todo-list-item input.done {
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+}

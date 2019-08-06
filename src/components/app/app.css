@@ -1,3 +1,5 @@
 .app {
-  font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
+    width: 1000px;
+    margin: 0px auto;
 }

@@ -1,0 +1,17 @@
+.item-add-form .input-group-text{
+  background-color: transparent;
+  border: none;
+}
+
+.item-add-form .fa {
+  font-size: 30px;
+  border-radius: 50%;
+  background-color: green;
+  margin-top: -10px;
+  padding: 15px;
+}
+
+.item-add-form .fa:hover {
+  filter: brightness(90%);
+  cursor: pointer;
+}
